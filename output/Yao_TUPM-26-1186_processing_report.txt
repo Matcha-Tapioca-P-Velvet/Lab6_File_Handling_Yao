@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+----------------------------------------------
+Last Name: Yao
+Student ID: TUPM-26-1186
+Seed Digit: 6
+ID Sum: 24
+Aerification Value: 78
+Dataset Sample Size: 74
+Valid Records: 1
+Average Global Active Power: 4.408
+JSON File: Yao_TUPM-26-1186_record.json
+Backup File: Yao_TUPM-26-1186_record.csv

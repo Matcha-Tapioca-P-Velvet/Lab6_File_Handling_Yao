@@ -1,0 +1,5 @@
+Student: Yao
+Student ID: TUPM-26-1186
+Seed Digit: 6
+ID Sum: 24
+Verification Value: 78
